@@ -1,4 +1,4 @@
-<!--- ████████ BANNER EN ASCII (NUNCA FALLA) ████████ -->
+<!--- ████████ BANNER EN ASCII ████████ -->
 <p align="center">
   <samp>
     <pre>
@@ -12,39 +12,35 @@
   </samp>
 </p>
 
-<!-- TYPING SVG MEJORADO - COLOR BLANCO BRILLANTE -->
+<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sandro+Iker+Fernandez+Lima;⚡+Software+Engineering+Student;🗄️+Database+%7C+Java+%7C+SQL+%7C+PHP;🚀+4th+Semester+%7C+UTA+Ecuador" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=500&color=00FF9C&center=true&vCenter=true&width=700&lines=Sandro+Fernandez;%E2%9A%A1+Software+Engineering+Student;%F0%9F%97%84%EF%B8%8F+Database+%7C+Java+%7C+SQL+%7C+PHP;%F0%9F%9A%80+4th+Semester+%7C+UTA+Ecuador" alt="Typing SVG" />
 </p>
 
-<!-- CONTADOR DE VISITAS (SIEMPRE FUNCIONA) -->
+<!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandroIkerFL&label=👀+PROFILE+VIEWS&color=0e75b6&style=flat-square" />
-</p>
-
-<!-- GIF DEL GATO QUE TE GUSTÓ (DESDE GITHUB) -->
-<p align="center">
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="120">
+  <img src="https://komarev.com/ghpvc/?username=SandroIkerFL&label=👀+PROFILE+VIEWS&color=00c9a7&style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
 <details open>
-<summary><b>📖 Haz clic para leer más</b></summary>
+<summary><b>📖 Click to read more</b></summary>
 <br>
 
-Soy **Sandro Iker Fernandez Lima**, estudiante de 4to semestre de **Ingeniería en Software** en la Universidad Técnica de Ambato.  
-Me apasionan las **bases de datos** y el **backend**. Construyo consultas SQL eficientes y estructuras que resuelven problemas reales.
+I'm **Sandro Fernandez**, a 4th semester **Software Engineering** student at Universidad Técnica de Ambato (UTA), Ecuador.
 
-🤝 Trabajo en equipo, curioso, siempre aprendiendo.
+I'm passionate about **databases** and **backend development**. I enjoy writing efficient SQL queries and designing data structures that solve real-world problems.
+
+🤝 Team player · 🔍 Curious by nature · 📈 Always learning
 
 </details>
 
 ---
 
-## 🛠️ Tecnologías (iconos que siempre cargan)
+## 🛠️ Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -55,25 +51,29 @@ Me apasionan las **bases de datos** y el **backend**. Construyo consultas SQL ef
 
 ---
 
-## 📚 Proyectos académicos
+## 📚 Academic Projects
 
-- 🏪 **Sistema de tienda** (Java + MySQL)  
-- 📖 **Base de datos biblioteca** (SQL avanzado)  
-- 🌐 **CRUD web** (PHP + MySQL)
+- 🏪 **Store Management System** — Java + MySQL
+- 📖 **Library Database** — Advanced SQL & relational design
+- 🌐 **Web CRUD App** — PHP + MySQL
 
-> 🚀 Próximamente subiré el código a mis repositorios.
+> 🚀 Code will be uploaded to my repositories soon.
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/SandroIkerFL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> 
-  <a href="mailto:sandro.fernandez@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SandroIkerFL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sandro.fernandez@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>✨ "La simplicidad es la máxima sofisticación" – y el alma de una buena base de datos. ✨</i>
+  <i>✨ "Clean code is not the one that works — it's the one that's understood." ✨</i>
 </p>
